@@ -28,7 +28,7 @@ const options = {
             }
             console.log({bA, aA, returnVal});
             return returnVal
-        })*/.slice(0,100)
+        })*/.slice(0,1000)
         $songs.html(`
         <table class="table table-striped">
         <thead>
